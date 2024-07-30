@@ -29,6 +29,9 @@ body{
     opacity:0.8;
     border-radius: 5px;
 }
+input:focus{
+    outline:none;
+}
 .cl{
     background:none;
     border:none;
